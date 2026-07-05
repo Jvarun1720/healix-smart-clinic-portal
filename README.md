@@ -1,4 +1,4 @@
-# HEALIX | Smart Multi-Portal Clinic System 🏥✨
+# HEALIX | Smart Multi-Portal Clinic System
 
 Welcome to **HEALIX**, a full-stack, cross-platform health-tech application built to connect patients and medical practitioners in real time. 
 
@@ -6,13 +6,13 @@ As a **3rd-year Electrical and Electronics Engineering (EEE) student**, I built 
 
 ---
 
-## 📸 System Dashboard Showcase
+## System Dashboard Showcase
 <img width="1847" height="920" alt="image" src="https://github.com/user-attachments/assets/112072e5-ec25-46ce-a8cb-07ecd655851c" />
 
 
 ---
 
-## 💡 What the Application Does
+## What the Application Does
 
 HEALIX operates as a dual-channel platform that seamlessly splits workflows based on user roles:
 
@@ -22,7 +22,7 @@ HEALIX operates as a dual-channel platform that seamlessly splits workflows base
 
 ---
 
-## 🛠️ The Tech Stack (What Code was Used)
+## The Tech Stack (What Code was Used)
 
 * Frontend Engine: `Next.js 15+` (React-based framework) using the modern **App Router** system for fast, optimized page switching.
 * Compiler Stack: Powered by **Turbopack** for instantaneous local page hydration and performance.
@@ -32,7 +32,7 @@ HEALIX operates as a dual-channel platform that seamlessly splits workflows base
 
 ---
 
-## 💻 Apps, Tools, and Sites Used
+## Apps, Tools, and Sites Used
 
 To build, design, and run HEALIX, I mastered and utilized the following industry-standard tools:
 1. VS Code (Visual Studio Code): The main integrated development environment (IDE) used to write and compile the entire codebase.
@@ -43,7 +43,7 @@ To build, design, and run HEALIX, I mastered and utilized the following industry
 
 ---
 
-## 🔧 Core Engineering Accomplishments & Skills Learned
+## Core Engineering Accomplishments & Skills Learned
 
 Through this build, I didn't just learn syntax—I learned real-world software engineering concepts:
 
@@ -54,7 +54,7 @@ Through this build, I didn't just learn syntax—I learned real-world software e
 
 ---
 
-## ⚡ Connect With Me
+## Connect With Me
 * Author: Varun Prakasan
 * Background: 3rd Year, B.Tech in Electrical and Electronics Engineering (EEE)
 * Interests:Cloud Infrastructure, Full-Stack Web App Development, Embedded Systems, and IoT.
